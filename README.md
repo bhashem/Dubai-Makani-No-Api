@@ -102,6 +102,7 @@ a test site is provided out of the box to test your system.
 it is located <a href="https://github.com/SouravDas25/Dubai-Makani-No-Api/tree/master/src/Test-your-built-Here"> here</a>.
 
 ![site-image](https://github.com/SouravDas25/Dubai-Makani-No-Api/blob/master/src/Test-your-built-Here/screens.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbhashem%2FDubai-Makani-No-Api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbhashem%2FDubai-Makani-No-Api?ref=badge_shield)
 
 #### Dependency
 all api link are provided by the Dubai Government.
@@ -111,3 +112,7 @@ here is the link from where the api is taken.
 https://www.dm.gov.ae/wps/wcm/connect/b1c96c7e-98d3-447a-b4b4-6c84f15e027a/Makani+Public+Web+Service+Access.pdf?MOD=AJPERES
 
 https://www.makani.ae/MakaniPublicDataService/MakaniPublic.svc
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbhashem%2FDubai-Makani-No-Api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbhashem%2FDubai-Makani-No-Api?ref=badge_large)
